@@ -25,6 +25,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c5cc01b7-a937-4c59-b98b-56bccc1888c3"
+      }
+    },
+    "owner": "ch.diamantakis",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/c5cc01b7-a937-4c59-b98b-56bccc1888c3"
     }
   }
 }
